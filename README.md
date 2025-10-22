@@ -34,4 +34,17 @@ The data can be sliced by Department, and visualize by BU and location.
 ## Visuals
 The visuals are used to showcase some of the options are: Cards, button slicer, line and column charts, matrix and donut chart.
 
+## Dashboard File
+<a href=https://github.com/fzavala795/Repository.005/blob/main/Repository.005%20Dashboard.pbix> Repository.005 Dashboard</a>
+
 ## Visual Images
+**Tab1 as intended when accessing dashboard:**
+
+![Screenshot (495)](https://github.com/fzavala795/Repository.005/blob/main/Screenshot1.jpg)
+
+
+
+
+**Tab1 shown with Dept1 selected in the Button Slice pane**
+
+![Screenshot (495)](https://github.com/fzavala795/Repository.005/blob/main/Screenshot2.jpg)
